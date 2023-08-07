@@ -1,5 +1,7 @@
+*.db
 HELP.md
 target/
+memory
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
